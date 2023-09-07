@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "bwjYwTNANGhFEJ4QwI5+uznlluA+IQM0gMMsGLt0sS8=",
+  "Source": "NET7Proje",
+  "BasePath": "_content/NET7Proje",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "NET7Proje\\wwwroot",
+      "Source": "NET7Proje",
+      "ContentRoot": "C:\\Users\\excalibur\\Desktop\\Projeler\\NET7Proje\\NET7Proje\\wwwroot\\",
+      "BasePath": "_content/NET7Proje",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
